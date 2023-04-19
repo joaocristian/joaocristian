@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joaocristian
-- 👀 I’m interested in promation, testing, noodejs, python
-- 🌱 I’m currently learning testing, node, python
+- 👀 I’m interested in promation, testing, java, Selenium, noodejs, python
+- 🌱 I’m currently learning testing, java
 - 💞️ I’m looking to collaborate on testing
 - 📫 How to reach me at instagram @joaocristiancarvalho 
 
